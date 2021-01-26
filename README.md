@@ -3,4 +3,5 @@
 
 American sign lanuage recogniser trained on sign language mnist.
 
-work in progress
+Made a CNN model trained on sign language mnist and has achieved 95% accuracy
+
