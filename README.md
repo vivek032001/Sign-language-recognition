@@ -3,7 +3,7 @@
 
 American sign lanuage recogniser trained on sign language mnist.
 
-Made a CNN model trained on sign language mnist and has achieved 95% accuracy
+Dataset:- https://www.kaggle.com/datamunge/sign-language-mnist
 
-OpenCV work is pending
+Used a CNN model and an accuracy of about 93% was achieved.
 
