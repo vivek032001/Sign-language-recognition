@@ -1,6 +1,5 @@
 # Sign-language-recognition
-
-
+<p>This project is intended to recognise and predict alphabets shown by the user using sign language.</p>
 American sign lanuage recogniser trained on sign language mnist.
 
 Dataset used:- https://www.kaggle.com/datamunge/sign-language-mnist
