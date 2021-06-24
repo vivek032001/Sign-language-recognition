@@ -13,5 +13,7 @@
 ----
 Dataset used:- https://www.kaggle.com/datamunge/sign-language-mnist
 
+The trained model is located in the model folder in .h5 format. 
+
 
 
